@@ -184,12 +184,12 @@ img {
   margin-left: 100px;
 }
 .navigation-bar .navigation-tabs {
-  width: 40%;
+  width: 35%;
   justify-items: space-evenly;
-  padding-right: 60px;
+  margin-right: 80px;
 }
 .navigation-bar .navigation-tabs a {
-  margin: 20px 20px;
+  margin: 15px 15px;
   text-decoration: none;
   color: #212529;
 }
