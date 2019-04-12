@@ -131,6 +131,7 @@ table {
 }
 html {
   font-size: 62.5%;
+  font-weight: bold;
 }
 html,
 body {
@@ -175,8 +176,26 @@ img {
   text-align: center;
   color: #212529;
   font-size: 1.6rem;
-  padding: 20px 25px;
+  padding: 20px;
   border-bottom: 2px dashed #C0C0C0;
+}
+.navigation-bar .branding {
+  padding-left: 20px;
+  margin-left: 30px;
+  justify-content: flex-start;
+  border: 1px solid red;
+}
+.navigation-bar .branding h1 {
+  border: 1px solid red;
+}
+.navigation-bar .navigation-tabs {
+  padding-right: 60px;
+  border: 1px solid red;
+}
+.navigation-bar .navigation-tabs a {
+  border: 1px solid red;
+  text-decoration: none;
+  color: #212529;
 }
 .footer {
   width: 100%;
