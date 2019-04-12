@@ -181,19 +181,15 @@ img {
 }
 .navigation-bar .branding {
   padding-left: 20px;
-  margin-left: 30px;
-  justify-content: flex-start;
-  border: 1px solid red;
-}
-.navigation-bar .branding h1 {
-  border: 1px solid red;
+  margin-left: 100px;
 }
 .navigation-bar .navigation-tabs {
+  width: 40%;
+  justify-items: space-evenly;
   padding-right: 60px;
-  border: 1px solid red;
 }
 .navigation-bar .navigation-tabs a {
-  border: 1px solid red;
+  margin: 20px 20px;
   text-decoration: none;
   color: #212529;
 }
