@@ -198,7 +198,7 @@ img {
 }
 .home .main-header {
   border-bottom: 2px dashed #C0C0C0;
-  margin-bottom: 30px;
+  padding-bottom: 15px;
 }
 .home .main-header .img-content {
   margin-bottom: 30px;
