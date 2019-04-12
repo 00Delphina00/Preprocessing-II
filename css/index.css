@@ -198,6 +198,13 @@ img {
 }
 .home .main-header {
   border-bottom: 2px dashed #C0C0C0;
+  margin-bottom: 30px;
+}
+.home .main-header .img-content {
+  margin-bottom: 30px;
+}
+.home .main-header h1 {
+  line-height: 1.4;
 }
 .home .inverse-content {
   padding-bottom: 30px;
