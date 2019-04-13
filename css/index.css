@@ -1,3 +1,10 @@
+@media (max-width:500px) {
+  .navigation-bar {
+    width: (max-width:500px);
+    display: flex;
+    flex-direction: column;
+  }
+}
 .destination button {
   color: white;
   background-color: #17A2B8;
@@ -185,12 +192,13 @@ img {
   padding: 20px;
   border-bottom: 2px dashed #C0C0C0;
 }
-.navigation-bar .branding {
+.navigation-bar h1 {
+  width: 200px;
   padding-left: 20px;
   margin-left: 100px;
 }
 .navigation-bar .navigation-tabs {
-  width: 35%;
+  width: 400px;
   justify-items: space-evenly;
   margin-right: 80px;
 }
