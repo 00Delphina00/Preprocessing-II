@@ -1,0 +1,7 @@
+@media (max-width:500px) {
+  .navigation-bar {
+    width: (max-width:500px);
+    display: flex;
+    flex-direction: column;
+  }
+}
