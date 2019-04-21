@@ -1,1 +1,12 @@
 // Mixins in here
+.btn (@color, @background-color) {
+    color:@color;
+    background-color:@background-color;
+    height: 40px;
+    width:75%;
+}
+    
+.destination button {
+    .btn(white, @button-bg);
+}
+
